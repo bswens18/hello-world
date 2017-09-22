@@ -1,2 +1,3 @@
 # hello-world
 The starting point...
+People say I'm crazy after all I've been through, life's ben good to me so far!
